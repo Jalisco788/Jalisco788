@@ -1,4 +1,4 @@
-## Hi there 👋
+git checkout -b feature/login-and-welcome-message
 
 <!--
 **Jalisco788/Jalisco788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
